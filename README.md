@@ -9,3 +9,16 @@ Evo was my first attempt at working with genetic algorithms and artificial neura
 *	The project implements from scratch a feed forward neural network with one hidden layer.
 *	After each iteration, the top 10 entities  ranked in terms of fitness (longest survival time) are used to create a new generation.
 *	The user is able to manually select each individual entity and follow their behavior or see their neural network.
+
+## Screenshots
+
+<div align="center">
+  <img width="600" src="https://github.com/Valentin0709/Evo/blob/master/Images/capture2.PNG">
+  <p>Control panel - the user can compute the fitness of each enitity, select the top entities and generate the next population. The Auto button can be used to execute all these functions together. At the top of the screen, the program displays the generation number and the average/maximum/minimum fitness scores</p>
+</div>
+
+
+<div align="center">
+  <img width="600" src="https://github.com/Valentin0709/Evo/blob/master/Images/capture2.PNG">
+  <p>In simulation mode, you can see the red entity searching for food which is represented by the green cells. In the bottom right corner, the app displays the health points and the values stored in the nodes of the neural network. Clicking one of the nodes shows all its corresponding weights.</p>
+</div>
