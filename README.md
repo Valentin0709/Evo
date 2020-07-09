@@ -19,6 +19,6 @@ Evo was my first attempt at working with genetic algorithms and artificial neura
 
 
 <div align="center">
-  <img width="600" src="https://github.com/Valentin0709/Evo/blob/master/Images/capture2.PNG">
+  <img width="600" src="https://github.com/Valentin0709/Evo/blob/master/Images/capture1.PNG">
   <p>In simulation mode, you can see the red entity searching for food which is represented by the green cells. In the bottom right corner, the app displays the health points and the values stored in the nodes of the neural network. Clicking one of the nodes shows all its corresponding weights.</p>
 </div>
